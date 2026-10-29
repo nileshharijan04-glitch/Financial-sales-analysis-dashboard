@@ -22,6 +22,9 @@ An interactive financial sales analysis project built using Microsoft Excel to a
 - **Top Product by Sales:** Paseo — $33.01M
 - **Highest Product Profit:** Paseo — $4.80M
 
+## Dashboard Preview
+![Financial Sales Analysis Dashboard](Dashboard_ss.png)
+
 ## Dashboard Features
 - Monthly sales and profit trends
 - Country-wise sales and profit comparison
